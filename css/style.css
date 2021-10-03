@@ -1,3 +1,11 @@
+@import "reset.css";
+@import "background.css";
+@import "clock.css";
+@import "greetings.css";
+@import "quotes.css";
+@import "todo.css";
+@import "wether.css";
+
 .hidden {
     display:none;
 }

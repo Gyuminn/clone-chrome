@@ -1,0 +1,33 @@
+#todo-form {
+    text-align: center;
+}
+
+#todo-form input {
+    border:none;
+    border-radius: 15px;
+    width: 270px;
+    height: 30px;
+}
+
+.todo-lists {
+    background-color: beige;
+    display:flex;
+    margin-top: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+
+#todo-list li {
+    display:flex;
+    justify-content: space-between;
+}
+#todo-list li span:first-child {
+    color: darksalmon;
+}
+
+#todo-list li button {
+    border:none;
+    border-radius:50%;
+    background-color: azure;
+    color: darkcyan;
+}
